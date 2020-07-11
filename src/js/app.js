@@ -1,5 +1,9 @@
+/* eslint-disable no-console */
 // TODO: write your code here
-import templateFunc from './basic';
+import orderByProps from './basic';
 
-// eslint-disable-next-line no-console
-console.log(templateFunc('test'));
+const obj = {
+  name: 'мечник', health: 10, level: 2, attack: 80, defence: 40,
+};
+
+console.log(orderByProps(obj, ['name', 'level']));
