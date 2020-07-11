@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tlwcv82xddx5brxa?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-6-advanced-1-for-in)
+
 # 6. Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
